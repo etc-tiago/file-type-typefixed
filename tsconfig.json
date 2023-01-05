@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"lib": ["es5", "es6", "dom"],
+		"rootDir": "./src/",
+		"declaration": true,
+		"outFile": "./build/build.js"
+	}
+}
